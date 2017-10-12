@@ -86,4 +86,4 @@ on what was left in the data after the linear and seasonal trends were analytica
 
 FOR MORE INFO
 
-Please download the .pdf file in this repository
+Please download the file capstone_1.pdf file in this repository
